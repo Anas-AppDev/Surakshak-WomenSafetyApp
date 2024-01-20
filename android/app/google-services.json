@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "487141963858",
+    "firebase_url": "https://resume-7aaae-default-rtdb.firebaseio.com",
+    "project_id": "resume-7aaae",
+    "storage_bucket": "resume-7aaae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487141963858:android:04a42a5c108e2c5e09878b",
+        "android_client_info": {
+          "package_name": "com.anas.women_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487141963858-gajg2frn0vku0kvs6avkvp4b31o734m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFvg1E9AUM8mDT0VoGVHp5AZOE9WO_u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487141963858-29ovmrhsvm5v49uaah3re757bdc2qm72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487141963858-cnp9u6rj92mohjoc85oamc0lvuaip4ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cumess"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487141963858:android:be0cffce7cd7b1cd09878b",
+        "android_client_info": {
+          "package_name": "com.example.chitkara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487141963858-8a6g9cfhml4f05pjmkkn420f628r80sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitkara",
+            "certificate_hash": "ab361f96ca21857772cdf2bfee9398a8c47d9f95"
+          }
+        },
+        {
+          "client_id": "487141963858-gajg2frn0vku0kvs6avkvp4b31o734m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFvg1E9AUM8mDT0VoGVHp5AZOE9WO_u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487141963858-29ovmrhsvm5v49uaah3re757bdc2qm72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487141963858-cnp9u6rj92mohjoc85oamc0lvuaip4ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cumess"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487141963858:android:0bda4eeab286bb6209878b",
+        "android_client_info": {
+          "package_name": "com.example.chitkara_mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487141963858-f803kgnsmdbs63mef1cegfcfb164b5hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitkara_mess",
+            "certificate_hash": "ab361f96ca21857772cdf2bfee9398a8c47d9f95"
+          }
+        },
+        {
+          "client_id": "487141963858-gajg2frn0vku0kvs6avkvp4b31o734m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFvg1E9AUM8mDT0VoGVHp5AZOE9WO_u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487141963858-29ovmrhsvm5v49uaah3re757bdc2qm72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487141963858-cnp9u6rj92mohjoc85oamc0lvuaip4ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cumess"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487141963858:android:27e48b7252c0f01809878b",
+        "android_client_info": {
+          "package_name": "com.example.cu_mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487141963858-40g7s7s3c1184a14ceh8iae0h3ar0hjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cu_mess",
+            "certificate_hash": "ab361f96ca21857772cdf2bfee9398a8c47d9f95"
+          }
+        },
+        {
+          "client_id": "487141963858-gajg2frn0vku0kvs6avkvp4b31o734m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFvg1E9AUM8mDT0VoGVHp5AZOE9WO_u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487141963858-29ovmrhsvm5v49uaah3re757bdc2qm72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487141963858-cnp9u6rj92mohjoc85oamc0lvuaip4ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cumess"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
